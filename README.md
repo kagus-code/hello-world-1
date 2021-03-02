@@ -2,8 +2,8 @@
 
 ## Authors
 
+- [Daniel Muchiri](https://github.com/kagus-code)
 - [kagus-code](https://github.com/kagus-code)
-- Add your clickable username here. It should point to your GitHub account.
 
 ## Project setup instructions
 
